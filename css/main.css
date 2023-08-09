@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&family=Lato&family=Libre+Baskerville:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,300&display=swap');
+
+
+/*Fonts*/
+h1,h2,h3,h4 {
+    font-family: 'Inter', sans-serif;
+}
+
+p{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 20px;
+}
+
+.body, p{
+    margin-top: 10vh;;
+}
+
+/*Navbar Components*/
+
+/*Carousal Components*/
+.Image{
+    width: 50vh;
+    height: 75vh;
+    background-image: url(/Assets/Ocean.jpg);
+    background-position: center;
+    background-size: cover ;
+    margin-left: 10vh;
+    margin-top: -10vh;
+}
