@@ -19,6 +19,8 @@ p{
 /*Navbar Components*/
 
 /*Carousal Components*/
+
+/*Slide 2*/
 .Image{
     width: 50vh;
     height: 75vh;
@@ -27,4 +29,12 @@ p{
     background-size: cover ;
     margin-left: 10vh;
     margin-top: -10vh;
+}
+
+.Logo{
+    height: 75px;
+    width: 250px;
+    background-image: url(/Assets/Cruise_Logo-removebg-preview.png);
+    background-position: center;
+    background-size: cover;
 }
